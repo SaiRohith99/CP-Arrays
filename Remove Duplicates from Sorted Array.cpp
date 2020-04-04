@@ -1,4 +1,4 @@
-Remove Duplicates from Sorted Array
+/*Remove Duplicates from Sorted Array
 
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
@@ -17,8 +17,8 @@ Your function should return length = 5, with the first five elements of nums bei
 
 It doesn't matter what values are set beyond the returned length.
 @rohith solution 
+*/
 
-```
 
 public:
     int removeDuplicates(vector<int>& nums) 
@@ -31,4 +31,3 @@ public:
     }
 };
 
-```
